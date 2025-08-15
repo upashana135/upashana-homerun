@@ -22,4 +22,9 @@ This project is a responsive e-commerce frontend built with React.js, Tailwind C
 ## Installation
 - Clone the repository
 - Install dependencies
+    **npm install**
 - Run the development server
+    **npm run dev**
+
+## Requirements
+- Node version: 20+

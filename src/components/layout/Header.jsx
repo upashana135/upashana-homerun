@@ -27,7 +27,7 @@ export default function(){
                         <p className="text-sm">Hello, Upashana</p>
                     </div>
 
-                    <div className="relative w-1/20 flex justify-center bg-red-100 p-1 rounded-md">
+                    <div className="relative w-1/12 flex justify-center bg-red-100 p-1 rounded-md">
                         <img src="images/cart-icon-14.png" alt="Cart" className="h-8 w-8 object-contain cursor-pointer"/>
                         {totalItems > 0 && (
                             <span className="absolute -top-1 -right-1 bg-red-500 text-white text-xs font-bold px-1.5 py-0.5 rounded-full">
